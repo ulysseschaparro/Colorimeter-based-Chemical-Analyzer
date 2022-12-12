@@ -1,4 +1,5 @@
-//Ulysses Chaparro Lab 9 Code
+//Ulysses Chaparro 1001718774
+//Final project code
 
 #include <stdint.h>
 #include <stdio.h>
