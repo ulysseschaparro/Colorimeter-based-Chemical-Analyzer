@@ -1,4 +1,4 @@
-#CSE3442
+# CSE3442
 Colorimeter-based Chemical Analyzer built for TM4C123GH6PM
 
 The University of Texas at Arlington | Junior Year | CSE 3442 | Embedded I This Project was programed in C for bare metal operation on the TI Tiva Development Board. This project was developed and created in CCStudio.
