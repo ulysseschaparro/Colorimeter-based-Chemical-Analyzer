@@ -1,4 +1,5 @@
-//Ulysses Chaparro Lab 7 Code
+//Ulysses Chaparro 1001718774
+//Lab 7 Code
 
 #include <stdint.h>
 #include <stdio.h>
