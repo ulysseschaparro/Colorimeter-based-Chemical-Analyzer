@@ -1,12 +1,14 @@
-# CSE3442
-Colorimeter-based Chemical Analyzer built for TM4C123GH6PM
-
-The University of Texas at Arlington | Junior Year | CSE 3442 | Embedded I This Project was programed in C for bare metal operation on the TI Tiva Development Board. This project was developed and created in CCStudio.
+# CSE3442 Embedded Systems I Final Project
 
 # Overview
-The students constructed a device to handle chemical samples is test tubes spun around by a turret. The chemical samples’ pH levels could then be analyzed using a colorimetry approach. Specifically, the color of each sample tube will differ based on their pH level, thus allowing the students to shine a RGB through the samples and finding the amount of refraction experienced with a phototransistor. The refraction values were then evaluated to find a formula to estimate a sample’s pH.
+This project integrated features of the Tiva™ TM4C123GH6PM Microcontroller to create a 
+colorimeter-based chemical analyzer. The purpose of the chemical analyzer is to handle chemical 
+samples of varying pH in turret-mounted test tubes and use colorimetry to measure the pH of any 
+sample. The color of each sample tube will differ based on its pH level, thus allowing a RGB LED to shine through the samples and find the amount of refraction experienced with a phototransistor. The refraction values were then evaluated to find a formula that estimates a sample’s pH.
 
-# UART Commands
+# Commands
+The project supports the functionality of UART commands and IR remote commands. The commands are as follows: 
+
 ##home
 Moves turret to reference position and stores home position
 
