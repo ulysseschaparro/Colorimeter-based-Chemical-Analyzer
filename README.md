@@ -9,7 +9,7 @@ sample. The color of each sample tube will differ based on its pH level, thus al
 # Commands
 The project supports the functionality of UART commands and IR remote commands. The commands are as follows: 
 
-##home
+## home
 Moves turret to reference position and stores home position
 
 ## turret TUBENUM
